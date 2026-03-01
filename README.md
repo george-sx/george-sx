@@ -36,19 +36,19 @@
   </div>
 </div>
 
----  
+---    
 ### 🔍 Github Stats:
 <p align="center">
   <a href="https://github.com/george-sx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=george-sx&theme=dark&background=0D1117&hide_border=true&fire=FFFFFF&ring=FFFFFF&stroke=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=george-sx&theme=dark&background=00000000&hide_border=true&fire=FFFFFF&ring=FFFFFF&stroke=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub streak"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/george-sx">
-    <img height=200 src="https://github-stats-extended.vercel.app/api?username=george-sx&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E" />
+    <img height=200 src="https://github-stats-extended.vercel.app/api?username=george-sx&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark&bg_color=00000000&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E" />
   </a>
   <a href="https://github.com/george-sx">
-    <img height=200 src="https://github-stats-extended.vercel.app/api/top-langs?username=george-sx&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E" />
+    <img height=200 src="https://github-stats-extended.vercel.app/api/top-langs?username=george-sx&layout=compact&langs_count=8&theme=dark&bg_color=00000000&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E" />
   </a>
 </p>
 
